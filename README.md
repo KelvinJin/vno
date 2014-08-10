@@ -44,7 +44,7 @@ When you get ready, just clone the repo to a folder under your blog's theme fold
 
 #### Image and Color
 
-Place your cover image under `assets/images/` folder and replace the default image file `background-cover.jpg`. You can change the cover overlap color as well. Change the `cover-orange` in the line of `<div class="panel-cover--overlay cover-orange"></div>` in `partials/side-panel.hbs` to the color you like. There are 7 options by default: 
+Place your cover image under `assets/images/` folder and replace the default image file `background-cover.jpg`. You can change the cover overlap color as well. Change the `cover-orange` in the line of `<div class="panel-cover--overlay cover-orange"></div>` in `partials/side-panel.hbs` to the color you like. There are 7 options by default:
 
 * `cover-blue` - #2568A3
 * `cover-green` - #156F78
